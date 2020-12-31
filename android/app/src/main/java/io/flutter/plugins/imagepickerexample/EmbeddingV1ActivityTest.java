@@ -4,15 +4,15 @@
 
 package io.flutter.plugins.imagepickerexample;
 
-import androidx.test.rule.ActivityTestRule;
-import dev.flutter.plugins.integration_test.FlutterTestRunner;
-import org.junit.Rule;
-import org.junit.runner.RunWith;
+//import androidx.test.rule.ActivityTestRule;
+//import dev.flutter.plugins.integration_test.FlutterTestRunner;
+//import org.junit.Rule;
+//import org.junit.runner.RunWith;
 
-@RunWith(FlutterTestRunner.class)
+//@RunWith(FlutterTestRunner.class)
 @SuppressWarnings("deprecation")
 public class EmbeddingV1ActivityTest {
-  @Rule
-  public ActivityTestRule<EmbeddingV1Activity> rule =
-      new ActivityTestRule<>(EmbeddingV1Activity.class);
+  //@Rule
+  //public ActivityTestRule<EmbeddingV1Activity> rule =
+    //  new ActivityTestRule<>(EmbeddingV1Activity.class);
 }
